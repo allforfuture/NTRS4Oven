@@ -1,0 +1,381 @@
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.01\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190228.02通讯改变\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190301.00\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\del\20190301\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新版NTRS\20190306.02\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\测试\20190308.00\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\测试\20190308.05\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\NTRS20190312\20190309\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.csprojResolveAssemblyReference.cache
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\新建文件夹\20190312\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\20190316——copy\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (6)\20190401\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190401\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (10)\20190402\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (14)\20190402\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190403\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\20190409\20190409\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (17)\20190409\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190410\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (21)\20190416\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\NTRS\20190417\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\20190417\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (2)\20190417\NTRSjudge\obj\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\bin\Release\NTRSjudge.exe.config
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\bin\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\bin\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\bin\Release\NTRSjudge.pdb
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.application
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.exe
+C:\Users\yyx19\Desktop\临时回收站\新建文件夹 (3)\20190418\NTRSjudge\obj\Release\NTRSjudge.pdb
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\bin\Release\NTRSjudge.exe.config
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\bin\Release\NTRSjudge.exe.manifest
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\bin\Release\NTRSjudge.application
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\bin\Release\NTRSjudge.exe
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\bin\Release\NTRSjudge.pdb
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\bin\Release\Newtonsoft.Json.dll
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.csprojAssemblyReference.cache
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.Port.resources
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.Trajectory.resources
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.Main.resources
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.Properties.Resources.resources
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.csproj.GenerateResource.cache
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.csproj.CoreCompileInputs.cache
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.exe.manifest
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.application
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.csproj.CopyComplete
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.exe
+D:\code\NTRSjudge\NTRSjudge\NTRSjudge\obj\Release\NTRSjudge.pdb

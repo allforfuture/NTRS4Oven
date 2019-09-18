@@ -1,0 +1,18 @@
+﻿<!--
+        //KK08,NSTD,M-1,L01,CNTRS,GH98502108GLKRQ26,,,18,12,10,18,46,08,1,CNTRS,0.0,0,0,1,JIG,KK0820181210184534
+        //type机种，                   KK08
+        //factory工厂号，              NSTD
+        //building建筑号，             M-1
+        //line线号，(CSV线号的来源于哪)                      X
+        //process工序，	    	              X BNTRS
+        //S/N，                                              X
+        //temp1,temp2                  ，，
+        //time年月日时分秒，                                 X
+        //checkInt检测项数目，         1
+        //inspect检测项项目名称，             X BNTRS
+        //checkValue检测项数值，       0.0
+        //checkItem检测项是否OK（0）	                       X
+        //checkTotal总检测项是否OK（0）                      X
+        //temp3,temp4                  1,JIG
+        //firstTime第一个马达扫描的时间                      X KK08+20181210184534（机种+时间）
+-->

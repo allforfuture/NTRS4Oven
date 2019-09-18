@@ -1,0 +1,10 @@
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\bin\x86\Debug\NTRSjudge.exe.config
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\bin\x86\Debug\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\bin\x86\Debug\NTRSjudge.pdb
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\obj\x86\Debug\NTRSjudge.Layout.resources
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\obj\x86\Debug\NTRSjudge.Main.resources
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\obj\x86\Debug\NTRSjudge.Properties.Resources.resources
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\obj\x86\Debug\NTRSjudge.csproj.GenerateResource.Cache
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\obj\x86\Debug\NTRSjudge.csproj.CoreCompileInputs.cache
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\obj\x86\Debug\NTRSjudge.exe
+C:\Users\YEYINXU\Desktop\NTRSjudge_Registry\NTRSjudge\NTRSjudge\obj\x86\Debug\NTRSjudge.pdb
