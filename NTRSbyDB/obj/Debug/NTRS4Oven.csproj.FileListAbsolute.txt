@@ -1,0 +1,15 @@
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\bin\Debug\NTRS4Oven.exe.config
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\bin\Debug\NTRS4Oven.exe
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\bin\Debug\NTRS4Oven.pdb
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.Properties.Resources.resources
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.csproj.CopyComplete
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.exe
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.pdb
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.Port.resources
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.Trajectory.resources
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\obj\Debug\NTRS4Oven.Main.resources
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\bin\Debug\Npgsql.dll
+C:\Users\yyx19\Desktop\NTRS4Oven\NTRS4Oven\bin\Debug\Mono.Security.dll

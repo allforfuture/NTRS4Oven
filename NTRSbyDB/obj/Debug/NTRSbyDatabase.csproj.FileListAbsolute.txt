@@ -1,0 +1,15 @@
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\bin\Debug\NTRSbyDatabase.exe.config
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\bin\Debug\NTRSbyDatabase.exe
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\bin\Debug\NTRSbyDatabase.pdb
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\bin\Debug\Newtonsoft.Json.dll
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\bin\Debug\Npgsql.dll
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\bin\Debug\Mono.Security.dll
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDatabase.csprojAssemblyReference.cache
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDatabase.Properties.Resources.resources
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDatabase.csproj.GenerateResource.cache
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDatabase.csproj.CopyComplete
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDatabase.exe
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDatabase.pdb
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDB.Port.resources
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDB.Trajectory.resources
+C:\Users\yyx19\Desktop\NTRSbyDatabase\NTRSbyDatabase\obj\Debug\NTRSbyDB.Main.resources
